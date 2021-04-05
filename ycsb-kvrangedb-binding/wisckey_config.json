@@ -1,0 +1,10 @@
+{
+   "dir" : "/mnt/pm983_block/eval_1000",
+	"data_cache_size":1,
+	"index_cache_size":1024,
+        "filter_type":2,
+        "filter_bits_per_key":16
+}
+
+
+

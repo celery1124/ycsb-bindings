@@ -1,0 +1,25 @@
+{
+   "dev_name" : "/dev/nvme7n1",
+	"pack_threads_num":12,
+   "index_type" : 2,
+	"index_num":1,
+	"pack_disable":false,
+	"pack_threads_num":12,
+   "pack_size_thres" : 2000,
+	"pack_size_max":4096,
+	"pack_num_max":8,
+        "index_batch":false,
+        "index_batch_size":8,
+	"data_cache_size":1,
+	"index_cache_size":1024,
+	"max_prefetch_depth":32,
+	"batch_size":10,
+        "rf_type":0,
+        "rf_enable":true,
+        "rf_num_keys":1000000000,
+        "rf_bits_per_key":16,
+        "rf_levels":2
+}
+
+
+
