@@ -1,6 +1,6 @@
 # YCSB binding for KVRangeDB, RocksKV, WiscKey
 
-This is an unoffcial fork of YCSB-15.0, which extends the bindings for [KVRangeDB][kvrangedb repo], [RocksKV][rockskv repo] and WiscKey[wisckey repo] for some interesting works on Samsung KVSSD.
+This is an unoffcial fork of YCSB-15.0, which extends the bindings for [KVRangeDB][kvrangedb repo], [RocksKV][rockskv repo] and [WiscKey][wisckey repo] for some interesting works on Samsung KVSSD.
 
 # Table of contents
 
