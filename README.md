@@ -1,10 +1,10 @@
 # YCSB binding for KVRangeDB, RocksKV, WiscKey
 
-This is an unoffcial fork of YCSB-15.0, which extends the bindings for [KVRangeDB][kvrangedb repo], [RocksKV][rockskv repo] and [WiscKey][wisckey repo] for some interesting works on Samsung KVSSD.
+This is an unoffcial fork of YCSB-0.15.0, which extends the bindings for [KVRangeDB][kvrangedb repo], [RocksKV][rockskv repo] and [WiscKey][wisckey repo] for some interesting works on Samsung KVSSD.
 
 # Table of contents
 
-## YCSB-15.0 
+## YCSB-0.15.0 
 
 This directory includes the source files of new ycsb bindings for KVRangeDB, RocksKV and Wisckey, including simple java native interface (JNI) and ycsb client for each DB implementation.  See details in kvrangedb, rockskv, wisckey sub-directories.
 
